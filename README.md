@@ -13,4 +13,5 @@ Access the website via CloudFront domain name
 https://d30bmglhs9jl23.cloudfront.net
 
 Access the bucket object via its S3 object URL
+
 https://my-991900256180-bucket.s3.amazonaws.com/index.html
